@@ -1,0 +1,75 @@
+What is Devops ?
+Devops combines the development and operation to increase the speed , 
+efficiency , speed and security of software development . Devops is the combination of 
+software development and operation .
+
+
+Four Main principle of Devops 
+
+1. Automation of Software Development lifecycle 
+This includes Automation testing , Builds , Releases and Provisioning [setting up] of Development 
+Environment and Manual task that can slow down or introduce human error into software development 
+process 
+
+2. Collaboration and Communication
+A great Devops team have effective Collaboration and Communication 
+
+
+3. Continuous imporovement and minimization waste - 
+From automating Repetitive task to watching performance metrics of way to reduce 
+release time and continuous improvement 
+
+
+Devops LifeCycle 
+
+1. Plan
+Planning the work that need to be done , prioritize it 
+and track its completion
+
+
+2. Create
+Write ,Design , Develop and securely manage code and project Data with
+your team
+
+
+3. Verify
+Ensure that the code works Correctly and adheres to your quality 
+standard - ideally with automated testing
+
+4. Package 
+Package your application and dependencies , manage containers and build artifacts
+
+
+5. Secure 
+Check for the vulnerablilities  through static and Dynamic tests , Fuzz testing 
+and dependency scanning
+
+
+6. Release
+Deploy the software to end user 
+
+7. Configure
+Manage and configure the infrastructure required to support your application 
+
+8. Monitor 
+Track performance metrics and error to help reduce the  serverity and frequency of incidents 
+
+9. Govern 
+Manage Security vulnerablilities , policies and  Compilance across your organization 
+
+
+Tools
+
+1.Version Control system 
+-> The fundamental practice of managing every change made to the source code and othe files 
+
+2. Agile 
+Agile Developement means taking iterative , incremental and lean approaches to streamline and 
+accelerate the delivery of the projects 
+
+3.Continuous Integration  - 
+The practice of regularly integrating code changes into main branch ,automatically
+testing each change and automatically kicking of a build 
+
+4. Continuous Delivery - 
+Continuous delivery works in conjunction with continuous integration to automate the infrastructure provisioning and application release process. They are commonly referred to together as CI/CD.
