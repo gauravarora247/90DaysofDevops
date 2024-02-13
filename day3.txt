@@ -1,0 +1,22 @@
+cat filename -> to view the content of the file 
+chmod 777 folder_name -> to give read , write and execute permission to the folder 
+history -> to check the complete history of the commands run so format
+rmdir directory_name  -> to delete the directory 
+rmdir -p A/B/C/D/E -> to remote nested directory
+vim -> to create the file 
+cat >filename  -> to write the content inside the file
+cat filename -> to view the content of the file in the command line 
+rmdir directory/foldername ->To remove a directory/ Folder.
+vi fruit.txt -> to create the file
+cat fruit.txt -> to view the content of the file fruit.txt
+cat >Devops.txt -> apple ,Mango , Banana ,Cherry , Kiwi , Orange , Guava
+-> Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+head -3 devops.txt -> To Show only top three fruits from the file.
+tail -3 devops.txt  -> To Show only bottom three fruits from the file.
+vi colors.txt and then cat colors.txt -> Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
+
+
+
+
+
+
